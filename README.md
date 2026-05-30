@@ -66,9 +66,7 @@ frameworks de automatización E2E para aplicaciones web, móvil y APIs REST.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henryseya&show_icons=true&theme=dark&hide_border=true" />
-</p>
+![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henryseya&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
