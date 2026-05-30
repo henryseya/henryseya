@@ -58,6 +58,7 @@ frameworks de automatización E2E para aplicaciones web, móvil y APIs REST.
 | Repositorio | Descripción | Stack |
 |-------------|-------------|-------|
 | [qa-selenium-java](https://github.com/henryseya/qa-selenium-java) | Framework E2E con POM, TestNG y CI/CD | Java · Selenium · TestNG |
+| [qa-jmeter-performance](https://github.com/henryseya/qa-jmeter-performance) | Performance Testing GraphQL — 6 tipos de prueba | JMeter · GraphQL · MongoDB |
 | qa-cypress-js *(próximamente)* | Testing E2E moderno | JavaScript · Cypress |
 | qa-playwright-python *(próximamente)* | Testing con pytest completo | Python · Playwright |
 | qa-karate-api *(próximamente)* | API Testing con BDD | Java · Karate |
