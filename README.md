@@ -13,7 +13,7 @@
 
 QA Automation Engineer with 5+ years of experience designing and implementing end-to-end automation frameworks for web, mobile and API testing. Based in Spain.
 
-Ingeniero de QA Automation con más de 5 años de experiencia diseñando e implementando frameworks de automatización E2E para aplicaciones web, móvil y APIs REST y GraphQL.
+Ingeniero de QA Automation con más de 5 años de experiencia diseñando e implementando frameworks de automatización E2E para aplicaciones web, móvil, APIs REST y APIs GraphQL.
 
 ---
 
