@@ -1,5 +1,4 @@
-Aquí está el README completo actualizado. Copia todo y reemplaza en https://github.com/henryseya/henryseya:
-markdown<h1 align="center">Henry Herrera</h1>
+<h1 align="center">Henry Herrera</h1>
 <h3 align="center">QA Automation Engineer · España</h3>
 
 <p align="center">
@@ -63,7 +62,7 @@ frameworks de automatización E2E para aplicaciones web, móvil y APIs REST.
 | [qa-selenium-python](https://github.com/henryseya/qa-selenium-python) | Framework E2E con POM, pytest y CI/CD | Python · Selenium · pytest |
 | [qa-playwright-python](https://github.com/henryseya/qa-playwright-python) | Framework E2E moderno con Playwright y pytest | Python · Playwright · pytest |
 | [qa-jmeter-performance](https://github.com/henryseya/qa-jmeter-performance) | Performance Testing GraphQL — 6 tipos de prueba | JMeter · GraphQL · MongoDB |
-| qa-playwright-typescript *(próximamente)* | Testing moderno cross-browser | TypeScript · Playwright |
+| [qa-playwright-typescript](https://github.com/henryseya/qa-playwright-typescript) | Framework E2E moderno multi-browser con TypeScript | TypeScript · Playwright · POM |
 | qa-karate-api *(próximamente)* | API Testing con BDD | Java · Karate |
 
 ---
