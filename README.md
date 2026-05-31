@@ -70,10 +70,6 @@ frameworks de automatización E2E para aplicaciones web, móvil y APIs REST.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henryseya&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Repositories-5%2B-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Tests-20%2B%20Automated-green?style=for-the-badge&logo=checkmarx&logoColor=white" />
