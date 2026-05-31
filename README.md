@@ -1,7 +1,6 @@
 <h1 align="center">Henry Herrera</h1>
 <h3 align="center">QA Automation Engineer · España</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-QA%20Automation-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-España-red?style=for-the-badge" />
 </p>
