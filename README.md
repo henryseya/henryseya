@@ -1,4 +1,5 @@
-<h1 align="center">Henry Herrera</h1>
+Aquí está el README completo actualizado. Copia todo y reemplaza en https://github.com/henryseya/henryseya:
+markdown<h1 align="center">Henry Herrera</h1>
 <h3 align="center">QA Automation Engineer · España</h3>
 
 <p align="center">
@@ -25,14 +26,15 @@ frameworks de automatización E2E para aplicaciones web, móvil y APIs REST.
 **Web Testing**
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Mobile & API**
 
@@ -59,8 +61,8 @@ frameworks de automatización E2E para aplicaciones web, móvil y APIs REST.
 |-------------|-------------|-------|
 | [qa-selenium-java](https://github.com/henryseya/qa-selenium-java) | Framework E2E con POM, TestNG y CI/CD | Java · Selenium · TestNG |
 | [qa-selenium-python](https://github.com/henryseya/qa-selenium-python) | Framework E2E con POM, pytest y CI/CD | Python · Selenium · pytest |
+| [qa-playwright-python](https://github.com/henryseya/qa-playwright-python) | Framework E2E moderno con Playwright y pytest | Python · Playwright · pytest |
 | [qa-jmeter-performance](https://github.com/henryseya/qa-jmeter-performance) | Performance Testing GraphQL — 6 tipos de prueba | JMeter · GraphQL · MongoDB |
-| qa-playwright-python *(próximamente)* | Testing con pytest completo | Python · Playwright |
 | qa-playwright-typescript *(próximamente)* | Testing moderno cross-browser | TypeScript · Playwright |
 | qa-karate-api *(próximamente)* | API Testing con BDD | Java · Karate |
 
