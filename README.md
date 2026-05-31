@@ -60,9 +60,9 @@ frameworks de automatización E2E para aplicaciones web, móvil y APIs REST.
 |-------------|-------------|-------|
 | [qa-selenium-java](https://github.com/henryseya/qa-selenium-java) | Framework E2E con POM, TestNG y CI/CD | Java · Selenium · TestNG |
 | [qa-selenium-python](https://github.com/henryseya/qa-selenium-python) | Framework E2E con POM, pytest y CI/CD | Python · Selenium · pytest |
-| [qa-playwright-python](https://github.com/henryseya/qa-playwright-python) | Framework E2E moderno con Playwright y pytest | Python · Playwright · pytest |
+| [qa-playwright-python](https://github.com/henryseya/qa-playwright-python) | Framework E2E moderno con Playwright y pytest y CI/CD | Python · Playwright · pytest |
 | [qa-jmeter-performance](https://github.com/henryseya/qa-jmeter-performance) | Performance Testing GraphQL — 6 tipos de prueba | JMeter · GraphQL · MongoDB |
-| [qa-playwright-typescript](https://github.com/henryseya/qa-playwright-typescript) | Framework E2E moderno multi-browser con TypeScript | TypeScript · Playwright · POM |
+| [qa-playwright-typescript](https://github.com/henryseya/qa-playwright-typescript) | Framework E2E moderno multi-browser con TypeScript y CI/CD | TypeScript · Playwright · POM |
 | qa-karate-api *(próximamente)* | API Testing con BDD | Java · Karate |
 
 ---
