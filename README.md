@@ -55,7 +55,7 @@ Ingeniero de QA Automation con más de 5 años de experiencia diseñando e imple
 | [qa-playwright-python](https://github.com/henryseya/qa-playwright-python) | Framework E2E moderno con Playwright y CI/CD | Python · Playwright · pytest |
 | [qa-jmeter-performance](https://github.com/henryseya/qa-jmeter-performance) | Performance Testing GraphQL — 6 tipos de prueba | JMeter · GraphQL · MongoDB |
 | [qa-playwright-typescript](https://github.com/henryseya/qa-playwright-typescript) | Framework E2E multi-browser con CI/CD | TypeScript · Playwright |
-| [qa-appium-mobile](https://github.com/henryseya/qa-appium-mobile) | Mobile Testing con Appium y BrowserStack | Java · Python · Appium |
+| [qa-appium-mobile](https://github.com/henryseya/qa-appium-mobile) | Mobile Testing con Appium y BrowserStack con CI/CD | Java · Python · Appium |
 | qa-karate-api *(próximamente)* | API Testing con BDD | Java · Karate |
 
 ---
