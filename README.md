@@ -1,4 +1,3 @@
-
 <h1 align="center">Henry Herrera</h1>
 <h3 align="center">QA Automation Engineer</h3>
 
@@ -56,14 +55,14 @@ Ingeniero de QA Automation con más de 5 años de experiencia diseñando e imple
 | [qa-jmeter-performance](https://github.com/henryseya/qa-jmeter-performance) | Performance Testing GraphQL — 6 tipos de prueba | JMeter · GraphQL · MongoDB |
 | [qa-playwright-typescript](https://github.com/henryseya/qa-playwright-typescript) | Framework E2E multi-browser con CI/CD | TypeScript · Playwright |
 | [qa-appium-mobile](https://github.com/henryseya/qa-appium-mobile) | Mobile Testing con Appium y BrowserStack con CI/CD | Java · Python · Appium |
-| qa-karate-api *(próximamente)* | API Testing con BDD | Java · Karate |
+| [qa-karate-api](https://github.com/henryseya/qa-karate-api) | API Testing REST y GraphQL con Karate BDD | Java · Karate · GraphQL |
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-6%2B-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-7%2B-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tests-25%2B%20Automated-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tests-40%2B%20Automated-green?style=for-the-badge" />
 </p>
